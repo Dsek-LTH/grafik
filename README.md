@@ -1,13 +1,11 @@
-# D-sektionens utskottsloggor
+![Råsa: Grafisk profil + Designsystem](/header.png)
 
-TODO att skriva: 
-
-- arbetssätt / hur skapa ny logga 
-  - utgå från utskottslogga bas
-  	- namn, splitta arc base o gruppera
-  - lägg till asset exports
-  - 
-- hur exportera
-- arbetssätt?
-- historik
-- utveckla riktlinjen för grafisk profil?
+# Att göra
+- PNG exports för allt i `/guild`
+- Historik?
+- Ny och utvecklad riktlinje för grafisk profil
+  - Arbetssätt
+  - Hur man skapar ny logga
+    - utgå från utskottslogga bas
+    - namn, splitta arc base o gruppera
+  - ...
